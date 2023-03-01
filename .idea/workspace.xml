@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4367cb71-d742-458d-9ff9-07ce856122f5" name="Changes" comment="commit inicial">
-      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/DecisaoModelo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Idade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listadeexercicius2/exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listadeexercicius2/exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listadeexercicius2/exercicio13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listadeexercicius2/exercicio13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2LTiDOVipaaZjzRe8BfHq7f3PjM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,7 +49,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager">
@@ -57,9 +61,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="baskara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeexercicios.baskara" />
+      <module name="hello.Word" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listadeexercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="celsios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeexercicios.celsios" />
+      <module name="hello.Word" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listadeexercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicius6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeexercicius2.exercicius6" />
+      <module name="hello.Word" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listadeexercicius2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="numerosEXECICIO9$numerosEXERCICI09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeexercicios.numerosEXECICIO9$numerosEXERCICI09" />
+      <module name="hello.Word" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listadeexercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AloMundo" />
+        <item itemvalue="Application.exercicius6" />
+        <item itemvalue="Application.numerosEXECICIO9$numerosEXERCICI09" />
+        <item itemvalue="Application.baskara" />
+        <item itemvalue="Application.celsios" />
       </list>
     </recent_temporary>
   </component>
@@ -79,7 +139,49 @@
       <option name="project" value="LOCAL" />
       <updated>1675904164438</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit inicial">
+      <created>1676498192796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676498192796</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit inicial">
+      <created>1677700843602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677700843602</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit inicial">
+      <created>1677700868246</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677700868246</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit inicial">
+      <created>1677700883769</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677700883769</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit inicial">
+      <created>1677700932640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677700932640</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit inicial">
+      <created>1677701023471</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677701023471</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -87,6 +189,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit inicial" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hello_Word$Arrays.ic" NAME="Arrays Coverage Results" MODIFIED="1676506171875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrays.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/hello_Word$CalculaPresstacao.ic" NAME="CalculaPresstacao Coverage Results" MODIFIED="1675955580679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>modelo.*</FILTER>
     </SUITE>
